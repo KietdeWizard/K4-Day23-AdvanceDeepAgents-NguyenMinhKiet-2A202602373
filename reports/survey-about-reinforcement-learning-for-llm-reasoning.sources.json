@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "2508.08221",
+    "url": "https://huggingface.co/papers/2508.08221",
+    "title": "Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning",
+    "date": "2025-08-11",
+    "source": "hf-daily"
+  },
+  {
+    "n": 2,
+    "id": "2503.16219",
+    "url": "https://huggingface.co/papers/2503.16219",
+    "title": "Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't",
+    "date": "2025-03-20",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "2507.21645",
+    "url": "https://huggingface.co/papers/2507.21645",
+    "title": "Libra: Assessing and Improving Reward Model by Learning to Think",
+    "date": "2025-07-29",
+    "source": "hf-daily"
+  },
+  {
+    "n": 4,
+    "id": "2311.05596",
+    "url": "https://huggingface.co/papers/2311.05596",
+    "title": "LLM Augmented Hierarchical Agents",
+    "date": "2023-11-09",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2510.01925",
+    "url": "https://huggingface.co/papers/2510.01925",
+    "title": "Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey",
+    "date": "2025-10-02",
+    "source": "hf-daily"
+  },
+  {
+    "n": 6,
+    "id": "2505.17652",
+    "url": "https://huggingface.co/papers/2505.17652",
+    "title": "Rethinking the Sampling Criteria in Reinforcement Learning for LLM Reasoning: A Competence-Difficulty Alignment Perspective",
+    "date": "2025-05-23",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2606.19750",
+    "url": "https://huggingface.co/papers/2606.19750",
+    "title": "Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models",
+    "date": "2026-06-18",
+    "source": "hf-daily"
+  },
+  {
+    "n": 8,
+    "id": "2512.23515",
+    "url": "https://huggingface.co/papers/2512.23515",
+    "title": "Alpha-R1: Alpha Screening with LLM Reasoning via Reinforcement Learning",
+    "date": "2025-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2509.16679",
+    "url": "https://arxiv.org/abs/2509.16679",
+    "title": "Reinforcement Learning Meets Large Language Models",
+    "date": "2025-09-20",
+    "source": "arxiv"
+  }
+]

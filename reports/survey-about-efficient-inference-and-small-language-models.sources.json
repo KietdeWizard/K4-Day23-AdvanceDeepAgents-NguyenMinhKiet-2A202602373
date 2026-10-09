@@ -1,0 +1,26 @@
+[
+  {
+    "n": 1,
+    "id": "2404.14294",
+    "url": "https://arxiv.org/abs/2404.14294",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "ranlp-1.93",
+    "url": "https://aclanthology.org/anthology-files/pdf/ranlp/2025.ranlp-1.93.pdf",
+    "title": "A Survey on Small Language Models",
+    "date": "2025-09-10",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "hf-search-1.1",
+    "url": "https://huggingface.co/papers/hf-search-1.1",
+    "title": "Hugging Face Efficient Model Inference",
+    "date": "2023-01-15",
+    "source": "hf-search"
+  }
+]

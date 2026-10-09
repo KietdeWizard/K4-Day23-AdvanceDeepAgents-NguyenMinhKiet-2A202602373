@@ -1,0 +1,40 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:2504.15333",
+    "url": "https://arxiv.org/abs/2504.15333",
+    "title": "Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports",
+    "date": "2025-04-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "url": "https://www.nature.com/articles/s41598-025-98483-1",
+    "title": "Industrial Applications of Large Language Models",
+    "date": "2025-04-21T09:00:38.000Z",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2609.29509",
+    "url": "https://huggingface.co/papers/2609.29509",
+    "title": "Delay-of-Gratification as a Multi-Agent Survival Micro-benchmark for Long-Horizon LLMs: Social Exposure, Personas, and Tool Use Budgets",
+    "date": "2026-08-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "url": "https://link.springer.com/article/10.1007/s41019-025-00296-9",
+    "title": "LLM-Based Agents for Tool Learning: A Survey",
+    "date": "2025-06-26",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2408.04682",
+    "url": "https://huggingface.co/papers/2408.04682",
+    "title": "ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities",
+    "date": "2024-08-08",
+    "source": "hf-search"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "url": "https://research.google/blog/coherent-long-form-video-generation/",
+    "title": "Automating coherent long-form video generation",
+    "date": "2026-09-24",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2610.12459",
+    "url": "https://arxiv.org/abs/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2506.21448",
+    "url": "https://huggingface.co/papers/2506.21448",
+    "title": "ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing",
+    "date": "2025-06-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2607.16243",
+    "url": "https://huggingface.co/papers/2607.16243",
+    "title": "RobustMAD: Evaluating Real-World Robustness of Multimodal Small Language Models for Deployable Anomaly Detection Assistants",
+    "date": "2026-06-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "title": "Multimodal AI Model: Applications, Benefits & Use Cases",
+    "url": "https://appsin.ai/blog/multimodal-ai-model/",
+    "date": "2026-08-13T05:00:54.000Z",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2609.36066",
+    "url": "https://arxiv.org/abs/2609.36066",
+    "title": "AerialDojo-200K: A Large-Scale Benchmark Suite for Open-World Aerial Object-Goal Search",
+    "published": "2026-09-28",
+    "source": "arxiv"
+  }
+]

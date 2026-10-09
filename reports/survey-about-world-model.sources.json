@@ -1,0 +1,55 @@
+[
+  {
+    "n": 1,
+    "id": "2610.11794",
+    "url": "https://huggingface.co/papers/2610.11794",
+    "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 2,
+    "id": "2609.23184",
+    "url": "https://arxiv.org/abs/2609.23184",
+    "title": "CausalWM: Causal Chain-of-Thought Reasoning for Embodied World Model",
+    "date": "2026-09-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "url": "https://arcxiv.org/abs/2610.12016",
+    "title": "CausalDreamer: Learning Predictive World Models with Latent Disentanglement",
+    "date": "2026-10-08",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "url": "https://arcxiv.org/abs/2610.10515",
+    "title": "RoboJEPA: Scaling Robotic Latent World Models",
+    "date": "2026-10-07",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "url": "https://arcxiv.org/abs/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2601.15533",
+    "url": "https://huggingface.co/papers/2601.15533",
+    "title": "From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models",
+    "date": "2026-01-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2604.16592",
+    "url": "https://huggingface.co/papers/2604.16592",
+    "title": "Human Cognition in Machines: A Unified Perspective of World Models",
+    "date": "2026-04-17",
+    "source": "hf-search"
+  }
+]
